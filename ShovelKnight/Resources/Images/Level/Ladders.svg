@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="6864"
+   height="1472"
+   viewBox="0 0 6864 1472"
+   sodipodi:docname="Level1_L2SVG.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.4067963"
+     inkscape:cx="5659.3124"
+     inkscape:cy="201.52171"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15"
+     inkscape:lockguides="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15">
+    <image
+       width="6864"
+       height="1472"
+       preserveAspectRatio="none"
+       xlink:href="../../../../../Resources/ShovelKnightResources/Level1_L2SVG.png"
+       id="image17" />
+    <path
+       style="fill:#000000"
+       d="M 5776,288 V 128 h 16 v 160 z"
+       id="path49"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="M 6016,592 V 304 h 16 v 288 z"
+       id="path47" />
+    <path
+       style="fill:#000000"
+       d="M 2064,624 V 464 h 16 v 160 z"
+       id="path45" />
+    <path
+       style="fill:#000000"
+       d="m 3168,656 v -32 h 16 v 32 z"
+       id="path43"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 4336,688 v -48 h 16 v 48 z"
+       id="path41"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 4160,704 v -80 h 16 v 80 z"
+       id="path39"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="M 2320,752 V 624 h 16 v 128 z"
+       id="path37"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 2912,912 v -64 h 16 v 64 z"
+       id="path35"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="M 4064,944 V 816 h 16 v 128 z"
+       id="path33"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 2992,992 v -64 h 16 v 64 z"
+       id="path31"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 3120,1056 v -64 h 16 v 64 z"
+       id="path29"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#000000"
+       d="m 4416,1184 v -128 h 16 v 128 z"
+       id="path99"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg3336"
+   version="1.1"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   width="6848"
+   height="1472"
+   viewBox="0 0 6848 1472"
+   sodipodi:docname="Level1_FLoor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata3342">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3340" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3338"
+     showgrid="false"
+     inkscape:zoom="5.8319789"
+     inkscape:cx="2715.2876"
+     inkscape:cy="667.09775"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3336"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="true" />
+  <path
+     style="fill:#000000"
+     d="m 2504.0212,1307.4349 v -208 h 400 V 683.43494 h -112.189 l 0.1845,-32 h 448.0045 v 64 h -304 v 160 h 48 v 32 h -48 v 175.99996 h 272 V 971.43494 h -128 v -16 h 160 v 159.99996 h -304 v 112 h -64 v -48 h -352 v 96 h 80 v 32 z m 128,0 v -32 h 112 v 32 z m 896,0 h -752 v -32 h 320 l 0.158,16.5 47.6413,0.086 0.2008,-16.5864 h 112 v -32 h 128 v -32 h 32 v -32 h 48 v 96 h 816 v 32 h -752 z m 832,0 v -32 h 64 v -32 h 80 v -224 h -32 v -16 h 96 v 32 h 48 v 64 h -80 v 208 z m -800,-96 v -112 h 64 v 112 z m 352,-32 v -16 h 48 v -48 h -48 v -16 h 224 v -12.8011 l -3.858,-0.033 0.02,-559.84992 3.8377,0.33518 v 556.34914 h 352 v 48 h -304 v 48 z m -720,-16 v -16 h 80 V 907.43494 h -208 v 111.99996 h 128 v 16 h -160 V 907.43494 h -32 v -32 h 32 v -32 h -64 v -16 h 304 v -96 h -16 v -256 h 48 v 623.99996 h 32 v 64 z m 1552,-64 v -64 h 112 v 64 z m 272,0 v -64 h 80 V 891.43494 h 16 v 207.99996 z m -512,-143.99996 v -48 h -352 v -64 h 288 v -48 h -176 v -16 h 176 v -95.99547 h -16 v -16 h 80 v -48 h -128 v 48 h 32 v 16 h -112 v -16 h -48 v -16 h 47.9994 v -32 h 48 v -32 h 288 v 96 h -96 v 207.99547 h 80 v 16 h -48 v 48 z m -4432.004478,-64 V 861.2888 l -6.901603,-0.0562 -0.04287,-137.1452 7.587476,0.45818 -0.643006,134.88936 H 712.01672 v -32 h 64 v -32 h 48 v 32 h 64 v 32 h 223.99998 v -64 h 48 v 64 h 176 v -16 h 48 v -16 h 64 v 15.99996 h 96 v 48 z m 1503.999978,0 v -64 l 255.9958,-4.5e-4 v -32 h 32 v -32 h 32 v 96 h 160 v -32 h 176 v 32 h 96 v -80 h 80 v -224 h 144 v 96 h 64 v 32 l 175.8197,4.5e-4 0.1672,3.85759 -182.5534,0.42867 -0.051,-4.28671 h -105.3829 v -16 h 32 v -48 h -32 v -32 h -80 v 304 z m -639.99998,-80 v -16 h 127.99998 v 16 z m 287.99998,0 v -16 h 80 v 16 z m 704,0 v -128 h 176 v -224 h 48 v 32 h -16 v 160 h 256 v 48 h -272 v 32 h -160 v 80 z m -320,-80 v -48 h 128 v 48 z m 3216.0045,-47.99547 h -160 v -48 h 80 v -16 h 128.0717 l 0.094,-16.00005 h 111.8333 v 80 h -160 z m 192,0 v -48 h 64 v 48 z m 192,0 v -128 h 160 v 128 z m 192,0 v -16 h 112 v 16 z m 160,0 v -16 h 112 v -32 h 144 l -0.1667,48 z m 304,0 v -48 h 112 v 48 z m 160,0 v -48 h 16 v 48 z m 80,0 v -400 h -160 v 48 h -48 v 32 h 48 v 48 h -80 V 155.444 h 64 v 32 h 64 v 32 h 64 v 16 h 224 v -64 h 80 v 32 h 48 v 32 h 512 l -0.2496,-132.48883 8.4801,-0.11524 -0.1715,137.9168 -8.059,0.39917 v 26.2881 h -800 V 683.43947 Z M 2152.0167,571.43494 v -16 h 32 v 16 z m 3280.0045,0.005 v -96 h 288 V 267.44447 h -64 v -64 -64 h 112 v 16 h -32 v 239.99547 h 80 v 16 h -80 v 48 h 303.9998 v -128 h 48 v 160 h -608 v 80 z m -208,-303.99547 V 59.444476 h 16 V 251.44447 h 128 v -48 h 32 v 64 z m 288,0 v -64 h 64 v 64 z m 96,0 v -96 h 16 v 96 z"
+     id="path3346"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>
